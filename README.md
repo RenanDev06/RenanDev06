@@ -1,6 +1,14 @@
-- eaiiiiiiii
-- html, css e js 
-<!---
-RenanDev06/RenanDev06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```js
+import Desenvolvedor from "RenanDev";
+
+class desenvolvendo projeto dc extends Desenvolvedor {
+  nome = "Renan";
+  Projeto = "Bot no discord + site do servidor";
+  by = "@";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["html, css, jS e py"];
+  bibliotecas = ["em processo...React"];
+}
+```
