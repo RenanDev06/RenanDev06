@@ -4,7 +4,7 @@ import Desenvolvedor from "RenanDev";
 class desenvolvendo projeto dc extends Desenvolvedor {
   nome = "Renan";
   Projeto = "Bot no discord + site do servidor";
-  by = "@";
+  by = "@SrHub-afk";
 }
 
 class Skills extends Desenvolvedor {
